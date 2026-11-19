@@ -1,0 +1,6 @@
+{
+  "name": "PeakCut — AI Video Clip Maker",
+  "description": "Turn long-form videos into captioned vertical clips for YouTube Shorts, Instagram Reels, and TikTok with AI moment detection, 9:16 reframing, and instant export.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
